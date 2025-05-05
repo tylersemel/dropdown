@@ -1,4 +1,4 @@
-export const Dropdown = (() => {
+exports.dropdown = (() => {
     const dropdowns = document.querySelectorAll('.dropdown');
 
     for (const dropdown of dropdowns) {
@@ -10,5 +10,5 @@ export const Dropdown = (() => {
 
         menu.classList.toggle('visible');
     }
-})();
+});
 

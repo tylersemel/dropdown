@@ -1,4 +1,10 @@
 {
+  "name": "dropdown",
+  "description": "customize your dropdowns",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "css-loader": "^7.1.2",
     "css-minimizer-webpack-plugin": "^7.0.2",
