@@ -1,3 +1,3 @@
-# template
+# Custom Dropdown
 
-Template repo using Webpack
+Clean dropdown design.
